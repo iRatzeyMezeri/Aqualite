@@ -1,0 +1,14 @@
+{
+  "cost": 1,
+  "type": "material",
+  "name": "Pearldust",
+  "hardness" : 1.5,
+  "description": "A rock of strange inorganic fuel"
+  "color": "171e25",
+  "research": {
+    "parent": "coal",
+    "requirements": [
+      "fuellerite/1"
+    ]
+  }
+}
