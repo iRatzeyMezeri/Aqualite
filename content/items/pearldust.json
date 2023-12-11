@@ -5,7 +5,7 @@
   "description": "A Simple material found in Ertreia"
   "color": "6d88b9",
   "research": {
-    "parent": "sand",
+    "parent": "box-core",
     "requirements": [
       "pearldust/1"
     ]
