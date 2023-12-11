@@ -6,7 +6,7 @@
   "size": 2,
   "itemCapacity": 3000,
   "unitCapModifier": 6,
-  "unitType": "package",
+  "unitType": "evoke",
   "requirements": [
     "pearldust/1400"
   ]
