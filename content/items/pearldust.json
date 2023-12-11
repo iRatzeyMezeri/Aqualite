@@ -1,0 +1,13 @@
+{
+  "cost": 0.5,
+  "type": "material",
+  "name": "Pearldust",
+  "description": "A Simple material found in Ertreia"
+  "color": "6d88b9",
+  "research": {
+    "parent": "sand",
+    "requirements": [
+      "pearldust/1"
+    ]
+  }
+}
