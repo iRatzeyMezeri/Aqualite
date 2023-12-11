@@ -1,7 +1,7 @@
 {
   "name": "Package",
   "description": "A Small core unit capable of maintaining a small base, but not capable of maintaining a battle",
-  "speed": 4,
+  "speed": 2.4,
   "mineSpeed": 3,
   "buildSpeed": 1,
   "mineTier": 2,
