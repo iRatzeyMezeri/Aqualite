@@ -7,7 +7,7 @@
   "color": "171e25",
   "flammability": 1.2,
   "research": {
-    "parent": "coal",
+    "parent": "pearldust",
     "requirements": [
       "fuellerite/1"
     ]
