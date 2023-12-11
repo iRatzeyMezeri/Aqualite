@@ -1,0 +1,19 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Box",
+  "description": "A little core for little expeditions",
+  "health": 1400,
+  "size": 2,
+  "itemCapacity": 3000,
+  "unitCapModifier": 6,
+  "unitType": "package",
+  "requirements": [
+    "pearldust/1400"
+  ]
+  "category": "effect",
+  "research": {
+    "root": true,
+    "name": "[#6D88B9FF]Ertreia",
+    "requiresUnlock": false
+  }
+}
