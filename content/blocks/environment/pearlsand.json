@@ -1,0 +1,6 @@
+{
+  "type": "Floor",
+  "itemDrop": "pearldust",
+  "variants": 3,
+  "wall": "pearlsand-wall"
+}
