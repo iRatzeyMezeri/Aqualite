@@ -5,6 +5,7 @@
   "hardness" : 1.5,
   "description": "A rock of strange inorganic fuel"
   "color": "171e25",
+  "flammability": 1.2,
   "research": {
     "parent": "coal",
     "requirements": [
