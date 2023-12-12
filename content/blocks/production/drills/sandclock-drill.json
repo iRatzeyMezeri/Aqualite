@@ -1,0 +1,13 @@
+{
+  "name": "Sandclock Drill",
+  "description": "A basic 2x2 drill",
+  "type": "Drill",
+  "size": 2,
+  "tier": 2,
+  "drillTime": 24,
+  "requirements": [
+     "pearldust/28"
+  ],
+  "category": "production",
+  "research": "box-core"
+}
