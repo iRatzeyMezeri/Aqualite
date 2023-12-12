@@ -12,6 +12,7 @@
       "name": "quark-disperser",
       "top": true,
       "shootY": 3,
+      "shootX": 4,
       "reload": 6,
       "inaccuracy": 12,
       "mirror": false,
