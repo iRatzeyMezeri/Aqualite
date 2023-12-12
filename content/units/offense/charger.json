@@ -18,7 +18,7 @@
       "x": 0,
       "y": 2,
       "shootSound": "sap",
-      "reload": 60,
+      "reload": 30,
       "bullet": {
         "type": "ContinuousFlameBulletType",
         "colors": ["6d88b50", "76becdaa", "b0e4ef", "dffaff", "ffffff"],
@@ -28,8 +28,8 @@
         "length": 40,
         "damage": 10,
         "knockback": 0,
-        "width": 4,
-        "lifetime": 60,
+        "width": 2,
+        "lifetime": 40,
       }
     }
   ]
