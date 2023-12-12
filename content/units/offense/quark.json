@@ -12,7 +12,7 @@
       "name": "quark-disperser",
       "top": true,
       "shootY": 3,
-      "shootX": 4,
+      "shootX": -4,
       "reload": 6,
       "inaccuracy": 12,
       "mirror": false,
@@ -51,7 +51,7 @@
           "colorFrom": "6d88b9",
           "colorTo": "6d88b9"
         },
-        "lifetime": 60,
+        "lifetime": 8,
         "shootEffect": {
           "type": "ParticleEffect",
           "line": true,
