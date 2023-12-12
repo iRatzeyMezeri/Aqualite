@@ -1,4 +1,5 @@
 {
+  "name": "Fuellerite Rock",
   "type": "Floor",
   "itemDrop": "fuellerite",
   "variants": 3,
