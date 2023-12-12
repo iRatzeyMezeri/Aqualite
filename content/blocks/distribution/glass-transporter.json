@@ -27,7 +27,7 @@
     "colorTo": "6d88b9"
   },
   "health": 100,
-  "speed": 0.50,
+  "speed": 0.10,
   "itemCapacity": 5,
   "requirements": [
     "pearldust/3"
