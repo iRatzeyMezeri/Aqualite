@@ -24,7 +24,7 @@
       "reload": 30,
       "bullet": {
         "type": "ContinuousFlameBulletType",
-        "colors": ["6d88b50", "76becdaa", "b0e4ef", "dffaff", "ffffff"],
+        "colors": ["6d88b50", "76becd50", "b0e4efaa", "dffaffaa", "ffffffee"],
         "drawFlare": true,
         "flareLength": 4,
         "flareColor": "b0e4ef",
@@ -33,6 +33,18 @@
         "knockback": 0,
         "width": 2,
         "lifetime": 40,
+        "hitEffect": {
+          "type": "ParticleEffect",
+          "line": true,
+          "particles": 2,
+          "lifetime": 15,
+          "length": 25,
+          "cone": -360,
+          "lenFrom": 4,
+          "lenTo": 0,
+          "colorFrom": "b0e4ef",
+          "colorTo": "b0e4ef"
+        }
       }
     }
   ]
