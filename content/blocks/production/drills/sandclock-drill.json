@@ -4,7 +4,7 @@
   "type": "Drill",
   "size": 2,
   "tier": 2,
-  "drillTime": 2,
+  "drillTime": 200,
   "requirements": [
      "pearldust/28"
   ],
