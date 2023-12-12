@@ -1,4 +1,5 @@
 {
+  "name": "Cadmium Ore",
   "type": "OreBlock",
   "itemDrop": "cadmium",
   "variants": 3,
