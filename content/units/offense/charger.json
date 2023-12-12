@@ -1,4 +1,6 @@
 {
+  "name": "Charger",
+  "description": "A Simple flying unit that fires short electric blazes.",
   "speed": 2,
   "accel": 0.1,
   "drag": 0.1,
