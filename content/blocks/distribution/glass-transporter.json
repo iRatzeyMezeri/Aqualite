@@ -1,0 +1,37 @@
+{
+  "name": "Glass Transporter",
+  "description": "A simple conveyor transferring 5 items at a time",
+  "type": "StackConveyor",
+  "loadEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 2,
+    "lifetime": 15,
+    "length": 25,
+    "cone": -360,
+    "lenFrom": 4,
+    "lenTo": 0,
+    "colorFrom": "6d88b9",
+    "colorTo": "6d88b9"
+  },
+  "unloadEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 2,
+    "lifetime": 15,
+    "length": 25,
+    "cone": -360,
+    "lenFrom": 4,
+    "lenTo": 0,
+    "colorFrom": "6d88b9",
+    "colorTo": "6d88b9"
+  },
+  "health": 100,
+  "speed": 0.50,
+  "itemCapacity": 5,
+  "requirements": [
+    "pearldust/3"
+  ],
+  "research": "box-core",
+  "category": "distribution"
+}
