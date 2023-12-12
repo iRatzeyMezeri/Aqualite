@@ -19,7 +19,7 @@
       "shootSound": "sap",
       "bullet": {
         "type": "basicBulletType",
-        "damage": 3,
+        "damage": 10,
         "buildingDamageMultiplier": 2,
         "pierce": false,
         "trailChance": 1,
