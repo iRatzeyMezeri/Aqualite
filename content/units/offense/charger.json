@@ -2,6 +2,7 @@
   "speed": 2,
   "accel": 0.1,
   "drag": 0.1,
+  "outlineColor": "00000000",
   "lowAltitude": true,
   "flying": true,
   "health": 480,
