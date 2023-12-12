@@ -1,0 +1,14 @@
+{
+  "cost": 1,
+  "type": "material",
+  "name": "Cadmium",
+  "hardness" : 2,
+  "description": "A soft metal used mainly for electric purposes"
+  "color": "726884",
+  "research": {
+    "parent": "pearldust",
+    "requirements": [
+      "cadmium/1"
+    ]
+  }
+}
