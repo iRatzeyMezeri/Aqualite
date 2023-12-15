@@ -1,0 +1,12 @@
+{
+  "name": "Large Pearglass Wall",
+  "description": "A weak wall made of pearldust, only useful on early stages",
+  "type": "Wall",
+  "health": 1440,
+  "size": 2,
+  "requirements": [
+    "pearldust/32"
+  ],
+  "category": "defense",
+  "research": "box-core"
+}
