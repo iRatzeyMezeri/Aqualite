@@ -1,0 +1,12 @@
+{
+  "name": "Pearglass Wall",
+  "description": "A weak wall made of pearldust, only useful on early stages",
+  "type": "Wall",
+  "health": 360,
+  "size": 1,
+  "requirements": [
+    "pearldust/8"
+  ],
+  "category": "defense",
+  "research": "box-core"
+}
