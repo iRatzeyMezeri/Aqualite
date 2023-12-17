@@ -1,0 +1,13 @@
+{
+  "cost": 1,
+  "type": "material",
+  "name": "Silicon Plating",
+  "description": "A compound made of mostly silicon, finds a use in everything"
+  "color": "768397",
+  "research": {
+    "parent": "pearldust",
+    "requirements": [
+      "silicon-plating/1"
+    ]
+  }
+}
