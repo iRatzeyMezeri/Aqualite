@@ -1,0 +1,18 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Arsenal",
+  "description": "A more powerful core for more important landings",
+  "health": 2600,
+  "size": 3,
+  "itemCapacity": 5000,
+  "unitCapModifier": 12,
+  "unitType": "armory",
+  "category": "effect",
+  "requirements": [
+    "pearldust/1200",
+    "silicone/800",
+    "cadmium/600"
+  ],
+  "category": "defense",
+  "research": "box-core"
+}
