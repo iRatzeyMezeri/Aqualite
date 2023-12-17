@@ -20,6 +20,7 @@
     {
       "name": "armory-blazer",
       "mirror": true,
+      "alternate": false,
       "top": true,
       "x": 2,
       "y": 2,
