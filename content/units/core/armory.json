@@ -21,10 +21,10 @@
       "name": "armory-blazer",
       "mirror": true,
       "top": true,
-      "x": 0,
+      "x": 2,
       "y": 2,
       "shootSound": "sap",
-      "reload": 120,
+      "reload": 240,
       "bullet": {
         "type": "ContinuousFlameBulletType",
         "colors": ["6d88b20", "76becd20", "b0e4ef50", "dffaff50", "ffffffaa"],
